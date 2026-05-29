@@ -1,5 +1,5 @@
-# LinkUs_App
-A command-line social media app built in C++17 with user management, tweet posting, follow system, news feed, likes, and keyword search. Data saved automatically via file storage.
+# LinkUs_App(Mini Twitter)
+A command-line social media app(Twitter-inspired) built in C++17 with user management, tweet posting, follow system, news feed, likes, and keyword search. Data saved automatically via file storage.
 # LinkUs App
 
 > A command-line social media application built in C++17 — post, connect, and engage. No database, no framework. Just clean C++.
